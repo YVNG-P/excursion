@@ -1,0 +1,41 @@
+html{
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+
+.title{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+a{
+  font-size: 16px;
+  color:aquamarine;
+  text-align: center;
+}
+
+.travel-guide{
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+}
+
+.travel-guide-description{
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+.coming-soon{
+  font-weight: 300;
+  font-size: 42px;
+  
+}
+
+footer{
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
